@@ -3,6 +3,16 @@ entries:
   hello-world:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2021-08-09T13:55:59.616859023Z"
+    description: A Helm chart for Kubernetes
+    digest: ae8ec78a5bde2d1f2c997681e049c673abd3ac3a0500b994a51cfdcee6169e14
+    name: hello-world
+    type: application
+    urls:
+    - https://github.com/mobiledgex/helm-examples/releases/download/hello-world-0.1.2/hello-world-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2021-03-02T18:36:45.469691322Z"
     description: A Helm chart for Kubernetes
     digest: a6fe72c563eb8c9573daa5628cd4b9fc9f64fd8cadc22a20172064279e8d3b1a
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/helm/examples/releases/download/hello-world-0.1.0/hello-world-0.1.0.tgz
     version: 0.1.0
-generated: "2021-03-02T18:36:45.469704022Z"
+generated: "2021-08-09T13:55:59.616869924Z"
